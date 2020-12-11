@@ -24,5 +24,4 @@ public class HelloWorldController {
         String output = "Hello, World!<br>" + question.getDescription();
         return output;
     }
-
 }
