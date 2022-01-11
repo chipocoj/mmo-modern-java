@@ -2,7 +2,7 @@ version: '2'
 
 services:
   app:
-    image: 'jchipoco/mmo-modern-java:latest'
+    image: 'jchipoco/mmo-modern-java:mmo-modern-java_gitrev-1b650ed_2020-12-10'
     build:
       context: .
     container_name: app
